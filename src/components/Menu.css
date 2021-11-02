@@ -7,8 +7,9 @@
 }
 
 table{
+  font-size: larger;
     float: left;
-    width: 25em;
+    width: 45em;
     text-align: center;
 }
 tr {
@@ -25,6 +26,6 @@ td{
 }
 img{
   float:right;
-  height: 700px;
-  width: 450px;
+  height: 750px;
+  width: 625px;
 }
