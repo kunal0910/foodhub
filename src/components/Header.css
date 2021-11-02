@@ -1,0 +1,19 @@
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(179, 86, 255);
+    padding-top: 8px;
+    padding-bottom: 4px;
+
+
+}
+.heading{
+    color:rgb(255, 217, 0);
+    font-size: 50px;
+}
+.pageTitle{
+    margin-left:500px;
+    font-size: 25px;
+}
+.pageTitle:hover{
+    cursor: pointer;
+}
